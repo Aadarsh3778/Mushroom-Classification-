@@ -1,0 +1,232 @@
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Traning Started
+2022-03-15 : preprocessing for traning data Started!
+2022-03-15 : preprocessing for traning data Complete!
+2022-03-15 : Spliting traning and testing data
+2022-03-15 : Prediction on traning data Done!
+2022-03-15 : accuracy_score : 1.0
+2022-03-15 : Traning Complete
+2022-03-15 : Dataset Shown after Traning
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Traning Started
+2022-03-15 : preprocessing for traning data Started!
+2022-03-15 : preprocessing for traning data Complete!
+2022-03-15 : Spliting traning and testing data
+2022-03-15 : Prediction on traning data Done!
+2022-03-15 : accuracy_score : 1.0
+2022-03-15 : Traning Complete
+2022-03-15 : Dataset Shown after Traning
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Prediction Started
+2022-03-15 : preprocessing for testing data Started!
+2022-03-15 : "['veil-type'] not found in axis"
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Prediction Started
+2022-03-15 : preprocessing for testing data Started!
+2022-03-15 : preprocessing for testing data Complete!
+2022-03-15 : Prediction Complete
+2022-03-15 : Dataset Shown after prediction
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Prediction Started
+2022-03-15 : preprocessing for testing data Started!
+2022-03-15 : preprocessing for testing data Complete!
+2022-03-15 : Prediction Complete
+2022-03-15 : Dataset Shown after prediction
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Traning Started
+2022-03-15 : preprocessing for traning data Started!
+2022-03-15 : preprocessing for traning data Complete!
+2022-03-15 : Spliting traning and testing data
+2022-03-15 : Prediction on traning data Done!
+2022-03-15 : accuracy_score : 0.9987692307692307
+2022-03-15 : Traning Complete
+2022-03-15 : Dataset Shown after Traning
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Prediction Started
+2022-03-15 : preprocessing for testing data Started!
+2022-03-15 : preprocessing for testing data Complete!
+2022-03-15 : Prediction Complete
+2022-03-15 : Dataset Shown after prediction
+2022-03-15 : Dataset uploaded
+2022-03-15 : Dataset Shown
+2022-03-15 : Prediction Started
+2022-03-15 : preprocessing for testing data Started!
+2022-03-15 : preprocessing for testing data Complete!
+2022-03-15 : Prediction Complete
+2022-03-15 : Dataset Shown after prediction
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Traning Started
+2022-03-16 : preprocessing for traning data Started!
+2022-03-16 : preprocessing for traning data Complete!
+2022-03-16 : Spliting traning and testing data
+2022-03-16 : Prediction on traning data Done!
+2022-03-16 : accuracy_score : 1.0
+2022-03-16 : Traning Complete
+2022-03-16 : Dataset Shown after Traning
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Prediction Started
+2022-03-16 : preprocessing for testing data Started!
+2022-03-16 : preprocessing for testing data Complete!
+2022-03-16 : X has 36 features, but RandomForestClassifier is expecting 94 features as input.
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Traning Started
+2022-03-16 : preprocessing for traning data Started!
+2022-03-16 : preprocessing for traning data Complete!
+2022-03-16 : Spliting traning and testing data
+2022-03-16 : Prediction on traning data Done!
+2022-03-16 : accuracy_score : 1.0
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Traning Started
+2022-03-16 : preprocessing for traning data Started!
+2022-03-16 : preprocessing for traning data Complete!
+2022-03-16 : Spliting traning and testing data
+2022-03-16 : Prediction on traning data Done!
+2022-03-16 : accuracy_score : 1.0
+2022-03-16 : Traning Complete
+2022-03-16 : Dataset Shown after Traning
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Prediction Started
+2022-03-16 : preprocessing for testing data Started!
+2022-03-16 : preprocessing for testing data Complete!
+2022-03-16 : X has 43 features, but RandomForestClassifier is expecting 94 features as input.
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Traning Started
+2022-03-16 : preprocessing for traning data Started!
+2022-03-16 : preprocessing for traning data Complete!
+2022-03-16 : Spliting traning and testing data
+2022-03-16 : Prediction on traning data Done!
+2022-03-16 : accuracy_score : 1.0
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Traning Started
+2022-03-16 : preprocessing for traning data Started!
+2022-03-16 : preprocessing for traning data Complete!
+2022-03-16 : Spliting traning and testing data
+2022-03-16 : Prediction on traning data Done!
+2022-03-16 : accuracy_score : 1.0
+2022-03-16 : Traning Complete
+2022-03-16 : Dataset Shown after Traning
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Prediction Started
+2022-03-16 : preprocessing for testing data Started!
+2022-03-16 : preprocessing for testing data Complete!
+2022-03-16 : X has 40 features, but RandomForestClassifier is expecting 94 features as input.
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Traning Started
+2022-03-16 : preprocessing for traning data Started!
+2022-03-16 : preprocessing for traning data Complete!
+2022-03-16 : Spliting traning and testing data
+2022-03-16 : Prediction on traning data Done!
+2022-03-16 : accuracy_score : 1.0
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Traning Started
+2022-03-16 : preprocessing for traning data Started!
+2022-03-16 : preprocessing for traning data Complete!
+2022-03-16 : Spliting traning and testing data
+2022-03-16 : Prediction on traning data Done!
+2022-03-16 : accuracy_score : 1.0
+2022-03-16 : Traning Complete
+2022-03-16 : Dataset Shown after Traning
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Prediction Started
+2022-03-16 : preprocessing for testing data Started!
+2022-03-16 : preprocessing for testing data Complete!
+2022-03-16 : X has 60 features, but RandomForestClassifier is expecting 94 features as input.
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Traning Started
+2022-03-16 : preprocessing for traning data Started!
+2022-03-16 : preprocessing for traning data Complete!
+2022-03-16 : Spliting traning and testing data
+2022-03-16 : Prediction on traning data Done!
+2022-03-16 : accuracy_score : 1.0
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Traning Started
+2022-03-16 : preprocessing for traning data Started!
+2022-03-16 : preprocessing for traning data Complete!
+2022-03-16 : Spliting traning and testing data
+2022-03-16 : Prediction on traning data Done!
+2022-03-16 : accuracy_score : 1.0
+2022-03-16 : Traning Complete
+2022-03-16 : Dataset Shown after Traning
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Prediction Started
+2022-03-16 : preprocessing for testing data Started!
+2022-03-16 : All values missing in column(s) ['TBG']. Should be removed.
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Traning Started
+2022-03-16 : preprocessing for traning data Started!
+2022-03-16 : preprocessing for traning data Complete!
+2022-03-16 : Spliting traning and testing data
+2022-03-16 : Prediction on traning data Done!
+2022-03-16 : accuracy_score : 1.0
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Traning Started
+2022-03-16 : preprocessing for traning data Started!
+2022-03-16 : preprocessing for traning data Complete!
+2022-03-16 : Spliting traning and testing data
+2022-03-16 : Prediction on traning data Done!
+2022-03-16 : accuracy_score : 1.0
+2022-03-16 : Traning Complete
+2022-03-16 : Dataset Shown after Traning
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Prediction Started
+2022-03-16 : preprocessing for testing data Started!
+2022-03-16 : All values missing in column(s) ['TBG']. Should be removed.
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Traning Started
+2022-03-16 : preprocessing for traning data Started!
+2022-03-16 : preprocessing for traning data Complete!
+2022-03-16 : Spliting traning and testing data
+2022-03-16 : Prediction on traning data Done!
+2022-03-16 : accuracy_score : 1.0
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Traning Started
+2022-03-16 : preprocessing for traning data Started!
+2022-03-16 : preprocessing for traning data Complete!
+2022-03-16 : Spliting traning and testing data
+2022-03-16 : Prediction on traning data Done!
+2022-03-16 : accuracy_score : 1.0
+2022-03-16 : Traning Complete
+2022-03-16 : Dataset Shown after Traning
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Prediction Started
+2022-03-16 : preprocessing for testing data Started!
+2022-03-16 : preprocessing for testing data Complete!
+2022-03-16 : Prediction Complete
+2022-03-16 : Dataset Shown after prediction
+2022-03-16 : Dataset uploaded
+2022-03-16 : Dataset Shown
+2022-03-16 : Traning Started
+2022-03-16 : preprocessing for traning data Started!
+2022-03-16 : preprocessing for traning data Complete!
+2022-03-16 : Spliting traning and testing data
+2022-03-16 : Prediction on traning data Done!
+2022-03-16 : accuracy_score : 1.0
+2022-03-16 : Traning Complete
+2022-03-16 : Dataset Shown after Traning
